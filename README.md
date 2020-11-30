@@ -1,5 +1,7 @@
 # Generation of Robot Gaits Using Low Level Parameters
 
+![ ](https://github.com/joshDavy1/Gait-Optimsation/blob/main/Capture.JPG)
+
 Final Report
 
 Joshua Davy
