@@ -1,4 +1,4 @@
-#Generation of Robot Gaits Using Low Level Parameters
+# Generation of Robot Gaits Using Low Level Parameters
 
 Final Report
 Joshua Davy
