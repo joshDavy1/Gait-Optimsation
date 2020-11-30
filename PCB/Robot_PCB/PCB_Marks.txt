@@ -1,0 +1,33 @@
+Switches & Pots
+SW1  - IO34
+SW2  - IO35
+POT1 - IO32
+POT2 - IO33
+
+LEDs
+LED1 - IO23
+LED2 - IO22
+LED3 - IO25
+
+Servos (1-5)
+S1 - IO21
+S2 - IO19
+S3 - IO18
+S4 - IO5
+S5 - IO17
+
+Servos (6-10)
+S6 - IO5
+S7 - IO4
+S8 - IO0
+S9 - IO2
+S10 - IO15
+
+Encoders 
+1_A - IO12
+1_B - IO13
+2_A - IO27
+2_B - IO26
+
+Designed By
+Josh Davy

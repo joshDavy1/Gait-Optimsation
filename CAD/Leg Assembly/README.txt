@@ -1,0 +1,6 @@
+3x Aluminum Multi-Purpose Servo Bracket Two Pack (ASB-04)
+2x Aluminum "C" Servo Bracket with Ball Bearings Two Pack (ASB-09)
+1x Aluminum "L" Connector Bracket Two Pack (ASB-06)
+1x Aluminum Tubing Connector Hub (pair) (HUB-08)
+2x Aluminum Tubing - 3.0" (AT-02)
+1x Rubber End Cap Pair - .500" x 1.50" (REC-06)
