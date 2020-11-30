@@ -1,12 +1,16 @@
 # Generation of Robot Gaits Using Low Level Parameters
 
 Final Report
+
 Joshua Davy
+
 el17jd@leeds.ac.uk
+
 May 2020
 
 
-Abstract
+## Abstract
+
 Traditionally the gaits of legged robots are inspired by what is seen in nature and
 on assumptions of what properties the optimum gait would have. This involves
 kinematic and dynamic analysis of the robot which becomes increasingly difficult
